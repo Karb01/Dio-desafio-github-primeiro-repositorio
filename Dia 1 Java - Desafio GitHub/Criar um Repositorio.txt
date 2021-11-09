@@ -1,0 +1,17 @@
+Do GitHub para a Maquina
+
+1º Passo - Criar Repositorio no Github
+2º Passo - Puxar para o GitHub local usando o comando "Git Clone + HTTPS do repositorio"
+
+Da Maquina para o GitHub
+
+1º Passo - Criar arquivo desejado na pasta
+2º Passo - Abrir GitHub no arquivo/pasta
+3º Passo - Usar o comando CD + nome do repositorio
+4º Passo - Usar comando Git Status para identificar novas pastas/arquivo
+5º Passo - Usar comando Git add . ou Git add -a para adicionar tudo que está faltando 
+6º Passo - Após ter adicionado no controle de versão local usar comando Git Commit -m "Adicionar informações sobre novo commit"
+7º Passo - Usar Git push origin + nome da branch (no caso está é main).
+
+Prontinho, sempre use esse guia quando esquecer
+
