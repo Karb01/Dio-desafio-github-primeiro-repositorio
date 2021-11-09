@@ -13,5 +13,5 @@ Da Maquina para o GitHub
 6º Passo - Após ter adicionado no controle de versão local usar comando Git Commit -m "Adicionar informações sobre novo commit"
 7º Passo - Usar Git push origin + nome da branch (no caso está é main).
 
-Prontinho, sempre use esse guia quando esquecer
+Prontinho, sempre use esse guia quando esquecer.
 
